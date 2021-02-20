@@ -1,21 +1,13 @@
 # J4J-BOT
 Otomatik j4j yaparak sunucunuzu büyütmenizi sağlar.
-Yakın zamanda youtube videosu çekilecektir.
-Discord hesabım npm i chatai#9448 üzerinden bana ulaşabilirsiniz.
 
-        __   .__.__    .__                      __  .__      
-_____  |  | _|__|  |__ |__|___________    _____/  |_|  |__   
-\__  \ |  |/ /  |  |  \|  \_  __ \__  \ _/ __ \   __\  |  \  
- / __ \|    <|  |   Y  \  ||  | \// __ \\  ___/|  | |   Y  \ 
-(____  /__|_ \__|___|  /__||__|  (____  /\___  >__| |___|  / 
-     \/     \/       \/               \/     \/          \/  
-                         _______________   ________  ____    
-                         \_____  \   _  \  \_____  \/_   |   
-                          /  ____/  /_\  \  /  ____/ |   |   
-                         /       \  \_/   \/       \ |   |   
-                         \_______ \_____  /\_______ \|___|   
-                                 \/     \/         \/        
-                                                             
+`RAR ŞİFRESİNİ SUNUCUMUZDAN ALABİLİRSİNİZ. 
+YOU CAN RECEIVE RAR PASSWORD BY JOINING OUR SERVER.`
+
+
+![alt text](https://cdn.discordapp.com/icons/462008497588928528/ff18e2af9a1a6b14df7fe9d50f3d9314.webp) [Sunucuya Katılmak İçin Tıkla](https://discord.gg/phrBpeqk8s)  
+
+                                                                                                                    𝑼𝒏𝒍𝒆𝒂𝒔𝒉 𝒚𝒐𝒖𝒓 𝒑𝒐𝒕𝒆𝒏𝒕𝒊𝒂𝒍    ©BOSS2018
                                                              
                                                              
                                                              
